@@ -14,15 +14,18 @@ Write about what the project does, what inspired you, what its goals are, what i
 
 Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
 
-![intial sketches](img/sketch.jpg)
+![initial sketches](img/sketch.jpg)
+
 
 #### Desktop Version
+![desktop landing page](img/landingPageDesktop.jpg)
+![desktop menu view](img/expandedMenuViewCourses.jpg)
 
-![desktop user interface](link-to-screenshot-here)
 
 #### Mobile Version
+![mobile tracks page](img/tracksDetailsPage.jpg)
+![mobile lesson view](img/lessonDetailsPage.jpg)
 
-![mobile user interface](link-to-screenshot-here)
 
 ### User Stories
 
