@@ -8,11 +8,11 @@ Chris Breaux
 
 ### Description
 
-Write about what the project does, what inspired you, what its goals are, what issues you're trying to fix, or what concepts you're completing this project to learn in this section here.
+This is a redesign of learnhowtoprogram.com.
 
 ### Images
 
-Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
+These are the hand-drawn sketches used for the initial design of the project.
 
 ![initial sketches](img/smallSketch.jpg)
 
@@ -38,19 +38,18 @@ Screenshots of your Sketch wireframes should go here. Make sure to include all v
 
 ### Technologies and Resources
 
-* Sketch
-* HTML
-* CSS
-* Sass
-
+* Sketch v50.2
 
 ### Responsiveness
 
-Describe how the site is responsive, and what different 'versions' this project includes (does it have a mobile version? tablet version? )
+This project was designed with a mobile-first approach. With a focus on intuitive navigation, we have included layouts for both desktop and mobile versions. The desktop version includes a side navigation bar while the mobile and tablet views rely upon tiles and drop-downs.
 
 ### Setup Instructions
 
-Describe how someone can clone and launch this project.
+* Clone project from https://github.com/cjbreaux/Epicodus-Redesign.git
+* Navigate to 'Epicodus Website Redesign.sketch'
+* (Mac Users) Double-click the .sketch file to open in Sketch
+
 
 ### Roadmap
 
