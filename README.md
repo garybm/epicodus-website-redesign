@@ -14,7 +14,7 @@ Write about what the project does, what inspired you, what its goals are, what i
 
 Screenshots of your Sketch wireframes should go here. Make sure to include all versions (if you have different mobile, tablet, desktop, etc.) designs. Use Dropbox or another free image hosting service to host your images.
 
-![initial sketches](img/sketch.jpg)
+![initial sketches](img/smallSketch.jpg)
 
 
 #### Desktop Version
