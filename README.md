@@ -1,14 +1,17 @@
 ## Project Title
- learnhowtoprogram.com redesign
+ Epicodus Website Redesign
 
 #### Names of Author(s)
 Gary Bermudez
 Chris Breaux
 #### Date of Completion
 
+2.21.2019
+
 ### Description
 
-This is a redesign of learnhowtoprogram.com.
+This is a redesign of [LearnHowToProgram. ](https://www.learnhowtoprogram.com)
+
 
 ### Images
 
@@ -53,15 +56,13 @@ This project was designed with a mobile-first approach. With a focus on intuitiv
 
 ### Roadmap
 
-Is there work you plan on continuing doing on this project? Features you'd like to add?
+* Ability for students to register on the site in order to track progress.
+* Ability for teachers to update lesson content from a CMS.
+* Ensure responsiveness across all devices.
 
-* Consider
-* Listing
-* Them
-* Here
 
 ### License
 
-Determine the license under which this application can be used.
+MIT License
 
-Copyright (c) 2018 **_{ List of Contributors }_**
+Copyright (c) 2018 **Gary Bermudez & Chris Breaux**
