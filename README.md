@@ -3,7 +3,7 @@
 
 #### Names of Author(s)
 Gary Bermudez
-Chris Breaux
+
 #### Date of Completion
 
 2.21.2019
@@ -65,4 +65,4 @@ This project was designed with a mobile-first approach. With a focus on intuitiv
 
 MIT License
 
-Copyright (c) 2018 **Gary Bermudez & Chris Breaux**
+Copyright (c) 2018 **Gary Bermudez **
