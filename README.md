@@ -18,6 +18,8 @@ This is a redesign of [LearnHowToProgram. ](https://www.learnhowtoprogram.com)
 These are the hand-drawn sketches used for the initial design of the project.
 
 ![initial sketches](img/smallSketch.jpg)
+![initial sketches](img/desktop.png)
+![initial sketches](img/mobile.png)
 
 
 #### Desktop Version
