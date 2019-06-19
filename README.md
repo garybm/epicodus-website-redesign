@@ -10,7 +10,7 @@ Gary Bermudez
 
 ### Description
 
-This is a redesign of [LearnHowToProgram. ](https://www.learnhowtoprogram.com)
+This is a redesign of [LearnHowToProgram. ](https://www.learnhowtoprogram.com) website from Epicodus. 
 
 
 ### Images
